@@ -1,0 +1,96 @@
+# Blender 4.3.2 MTL File: 'Sword.blend'
+# www.blender.org
+
+newmtl Blade
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.986836 0.676144
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns -s 2 2 1 D:/Blender/Repo/Blender-Projects/Game Assets/Detailed Game Assets/Sword/starterKit/Sword Textures/scratches.jpg
+
+newmtl Blade_glow
+Ka 1.000000 1.000000 1.000000
+Kd 0.995384 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns -s 2 2 1 D:/Blender/Repo/Blender-Projects/Game Assets/Detailed Game Assets/Sword/starterKit/Sword Textures/scratches.jpg
+
+newmtl Blade_glow.001
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.986836 0.676144
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns -s 2 2 1 D:/Blender/Repo/Blender-Projects/Game Assets/Detailed Game Assets/Sword/starterKit/Sword Textures/scratches.jpg
+
+newmtl Gaurd
+Ka 1.000000 1.000000 1.000000
+Kd 0.472366 0.266230 0.202978
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns -s 0.5 0.5 1 D:/Blender/Repo/Blender-Projects/Game Assets/Detailed Game Assets/Sword/starterKit/Sword Textures/scratches.jpg
+
+newmtl Handle
+Ka 1.000000 1.000000 1.000000
+Kd 0.005298 0.005257 0.004274
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns D:/Blender/Repo/Blender-Projects/Game Assets/Detailed Game Assets/Sword/starterKit/Sword Textures/LeadPlate.tif
+
+newmtl rockA
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/Blender/Repo/Blender-Projects/Game Assets/Detailed Game Assets/Sword/starterKit/Rocks/_textures/rockA/BaseColor_sharpen_1k.jpg
+map_Bump -bm 1.000000 D:/Blender/Repo/Blender-Projects/Game Assets/Detailed Game Assets/Sword/starterKit/Rocks/_textures/rockA/Normal_sharpen_1k.jpg
+
+newmtl rockB
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/Blender/Repo/Blender-Projects/Game Assets/Detailed Game Assets/Sword/starterKit/Rocks/_textures/rockB/BaseColor_sharpen_1k.jpg
+map_Bump -bm 1.000000 D:/Blender/Repo/Blender-Projects/Game Assets/Detailed Game Assets/Sword/starterKit/Rocks/_textures/rockB/Normal_sharpen_1k.jpg
+
+newmtl rockC
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/Blender/Repo/Blender-Projects/Game Assets/Detailed Game Assets/Sword/starterKit/Rocks/_textures/rockC/BaseColor_sharpen_1k.jpg
+map_Bump -bm 1.000000 D:/Blender/Repo/Blender-Projects/Game Assets/Detailed Game Assets/Sword/starterKit/Rocks/_textures/rockC/Normal_sharpen_1k.jpg
+
+newmtl rockD
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/Blender/Repo/Blender-Projects/Game Assets/Detailed Game Assets/Sword/starterKit/Rocks/_textures/rockD/BaseColor_sharpen_1k.jpg
+map_Bump -bm 1.000000 D:/Blender/Repo/Blender-Projects/Game Assets/Detailed Game Assets/Sword/starterKit/Rocks/_textures/rockD/Normal_sharpen_1k.jpg
